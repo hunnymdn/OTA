@@ -14,7 +14,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog"></ChangelogUrl>
+                description="View Changelog">https://raw.githubusercontent.com/hunnymdn/OTA/master/CHANGELOG</ChangelogUrl>
             <SlimGappsUrl
             	id="gapps"
             	title="Gapps"
