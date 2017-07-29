@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <k3gxx>
+            <Filename>RR-N-v5.8.3-20170726-k3gxx-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix/files/k3gxx/RR-N-v5.8.3-20170726-k3gxx-Official.zip/download</RomUrl>
+            <RomArchiveUrl
+                id="RomArchive"
+                title="Rom Archive"
+                description="Rom Archive">https://sourceforge.net/projects/resurrectionremix/files/k3gxx/</RomArchiveUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog"></ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+        </k3gxx>
+    </Stable>
+</SlimOTA>
