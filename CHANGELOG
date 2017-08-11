@@ -1,3 +1,25 @@
+ ▼ Resurrection Remix Nougat Ver 5.8.4 Changelog by hunnymdn
+
+ ▼ 08/09/2017
+
+1. Calls 
+    - fixed no audio during calls
+    - increased volumes
+    - fix device switching
+2. Camera
+    - fix force close when switching camera
+    - improved quality (don't expect much)
+3. fixed battery drain issue
+4. WiFi Direct Fix
+5. improved graphic performance
+6. CPU
+    - introduced power efficient work queue scheduling 
+    - and many more new things 
+7. fix led while charging
+8. added Over the Air update support
+9 . enable IR blaster
+10. Samsung Doze, ambient display , pulse notifications and many more.
+
 
  ▼ Resurrection Remix Nougat Ver 5.8.3 Changelog by hunnymdn
 
