@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <k3gxx>
-            <Filename>RR-N-v5.8.4-20170809-k3gxx-Official.zip</Filename>
+            <Filename>RR-N-v5.8.4-20170811-k3gxx-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Downloads"
-                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix/files/k3gxx/RR-N-v5.8.4-20170809-k3gxx-Official.zip/download</RomUrl>
+                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix/files/k3gxx/RR-N-v5.8.4-20170811-k3gxx-Official.zip/download</RomUrl>
             <RomArchiveUrl
                 id="RomArchive"
                 title="Rom Archive"
