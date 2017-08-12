@@ -1,5 +1,13 @@
  ▼ Resurrection Remix Nougat Ver 5.8.4 Changelog by hunnymdn
 
+ ▼ 08/11/2017
+ 1. Calls
+    - Reverted to Wolfson hal for call stability
+    - still bt calls dont work
+ 2. Fixed usb tethering
+ 3. Improved graphics performance 
+
+
  ▼ 08/09/2017
 
 1. Calls 
