@@ -1,4 +1,15 @@
  ▼ Resurrection Remix Nougat Ver 5.8.4 Changelog by hunnymdn
+   Contributers hunnymdn, tincho5588
+
+ ▼ 08/15/2017
+ 1. Calls
+    - fixed bluetooth calls
+    - tuned mics and out devices volumes
+    - more stability
+ 2. Improved Camera Quality
+ 3. Improved overall battery life and performance
+    (load balancer,new cpu freq relations, power saving feature & optimizations)
+
 
  ▼ 08/11/2017
  1. Calls
