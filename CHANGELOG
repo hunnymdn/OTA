@@ -1,6 +1,14 @@
  ▼ Resurrection Remix Nougat Ver 5.8.4 Changelog by hunnymdn
    Contributers hunnymdn, tincho5588
 
+▼ 08/29/2017
+ 1. Calls
+    - fix echo to some extend during calls
+    - fix calls in VoIp calls (Whatsapp,Viber)
+ 2. Added support for more SD card formats and many other speed tweaks
+ 3. Added many security patches and latest CVEs.
+ 4. Enforcing Kernel.
+
  ▼ 08/15/2017
  1. Calls
     - fixed bluetooth calls
