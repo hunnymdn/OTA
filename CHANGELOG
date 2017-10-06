@@ -1,5 +1,13 @@
  ▼ Resurrection Remix Nougat Ver 5.8.4 Changelog by hunnymdn
    Contributers hunnymdn, tincho5588 & rohit
+   
+   
+ ▼ 05/10/2017
+ 1. Fix echo in calls
+ 2. Fix voip calls(whatsapp,jiovoice etc)
+    Note :- if still issues persist make a clean flash.
+
+
 
 ▼ 25/9/2017
  1. Latest security patch.
