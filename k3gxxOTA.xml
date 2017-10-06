@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <k3gxx>
-            <Filename>RR-N-v5.8.5-20170925-k3gxx-Official.zip</Filename>
+            <Filename>RR-N-v5.8.5-20171005-k3gxx-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Downloads"
